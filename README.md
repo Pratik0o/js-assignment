@@ -7,7 +7,7 @@ This project is a simple demonstration of fetching and displaying JSON data usin
 - Styling the page using external CSS.
 
 ## 🚀 Live Demo
-[Click here to view the live demo](https://pratik0o.github.io/js-assignment/)
+ https://pratik0o.github.io/js-assignment/
 
 ## 📂 Project Structure
 ```
