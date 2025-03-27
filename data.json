@@ -3,13 +3,31 @@
       "name": "Laptop",
       "category": "Electronics",
       "price": 899.99,
-      "image": "https://via.placeholder.com/150"
     },
     {
       "name": "Coffee Mug",
       "category": "Kitchen",
       "price": 14.99,
-      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Desktop"
+      "category": "Electronics",
+      "price": 700.99,
+    },
+    {
+      "name": "Coffee Machine",
+      "category": "Kitchen",
+      "price": 240.99,
+    },
+    {
+      "name": "iphone 16",
+      "category": "Electronics",
+      "price": 1995.99,
+    },
+    {
+      "name": "Oven",
+      "category": "Kitchen",
+      "price": 550.99,
     }
   ]
   
