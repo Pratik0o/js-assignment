@@ -1,33 +1,122 @@
 [
     {
-      "name": "Laptop",
-      "category": "Electronics",
-      "price": 899.99,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 899.99,
+        "image": "https://via.placeholder.com/150"
     },
     {
-      "name": "Coffee Mug",
-      "category": "Kitchen",
-      "price": 14.99,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 699.99,
+        "image": "https://via.placeholder.com/150"
     },
     {
-      "name": "Desktop"
-      "category": "Electronics",
-      "price": 700.99,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150"
     },
     {
-      "name": "Coffee Machine",
-      "category": "Kitchen",
-      "price": 240.99,
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150"
     },
     {
-      "name": "iphone 16",
-      "category": "Electronics",
-      "price": 1995.99,
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "price": 249.99,
+        "image": "https://via.placeholder.com/150"
     },
     {
-      "name": "Oven",
-      "category": "Kitchen",
-      "price": 550.99,
+        "name": "Gaming Console",
+        "category": "Gaming",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Mechanical Keyboard",
+        "category": "Gaming",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Gaming Mouse",
+        "category": "Gaming",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Office Chair",
+        "category": "Furniture",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Coffee Mug",
+        "category": "Kitchen",
+        "price": 14.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Electric Kettle",
+        "category": "Kitchen",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Sunglasses",
+        "category": "Fashion",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Wrist Watch",
+        "category": "Fashion",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Dumbbells Set",
+        "category": "Fitness",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Notebook",
+        "category": "Stationery",
+        "price": 9.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Pen Set",
+        "category": "Stationery",
+        "price": 4.99,
+        "image": "https://via.placeholder.com/150"
     }
-  ]
-  
+]
