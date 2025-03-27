@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 899.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Coffee Mug",
+      "category": "Kitchen",
+      "price": 14.99,
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
