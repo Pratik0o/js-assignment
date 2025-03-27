@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const container = document.getElementById("product-container");
 
-    fetch("https://pratik0o.github.io/js-assignment/data/data.json")
+    fetch("https://pratik0o.github.io/js-assignment/data.json")
         .then(response => {
             if (!response.ok) {
                 throw new Error("Network response was not OK");
